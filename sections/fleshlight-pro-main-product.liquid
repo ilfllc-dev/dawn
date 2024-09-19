@@ -463,7 +463,15 @@
                 %}
 
               {%- when 'variant_picker' -%}
-                {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
+                {% assign variant_price = product.selected_or_first_available_variant.price %}
+                {% assign tier_price = 20000 %}
+                {%- if variant_price >= tier_price -%}
+                  {% render 'product-variant-picker',
+                    product: product,
+                    block: block,
+                    product_form_id: product_form_id
+                  %}
+                {% endif %}
               {%- when 'buy_buttons' -%}
                 {%- render 'buy-buttons',
                   block: block,
@@ -727,7 +735,7 @@
 
 {% schema %}
 {
-  "name": "t:sections.main-product.name",
+  "name": "Pro Main Product",
   "tag": "section",
   "class": "section",
   "blocks": [

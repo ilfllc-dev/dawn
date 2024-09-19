@@ -1,0 +1,313 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "disabled": true,
+        "settings": {
+          "padding_top": 28,
+          "padding_bottom": 28
+        }
+      },
+      "image_banner_K6mQwF": {
+        "type": "image-banner",
+        "custom_css": [
+          "@media (max-width: 749px) {div {display: none !important; }}"
+        ],
+        "settings": {
+          "image": "{{ page.metafields.custom.girl_landing_page_hero.value }}",
+          "image_overlay_opacity": 0,
+          "image_height": "adapt",
+          "desktop_content_position": "middle-center",
+          "show_text_box": false,
+          "desktop_content_alignment": "center",
+          "color_scheme": "",
+          "image_behavior": "none",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": false,
+          "show_text_below": false
+        }
+      },
+      "image_banner_WabQ6j": {
+        "type": "image-banner",
+        "custom_css": [
+          "@media (min-width: 750px) {div {display: none !important; }}"
+        ],
+        "settings": {
+          "image": "{{ page.metafields.custom.girl_landing_hero_mobile.value }}",
+          "image_overlay_opacity": 0,
+          "image_height": "adapt",
+          "desktop_content_position": "middle-center",
+          "show_text_box": true,
+          "desktop_content_alignment": "center",
+          "color_scheme": "",
+          "image_behavior": "none",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": true,
+          "show_text_below": true
+        }
+      },
+      "rich_text_TLMyQk": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_Bg8CMH": {
+            "type": "heading",
+            "settings": {
+              "heading": "{{ page.title }}",
+              "heading_size": "hxl"
+            }
+          }
+        },
+        "block_order": [
+          "heading_Bg8CMH"
+        ],
+        "settings": {
+          "desktop_content_position": "left",
+          "content_alignment": "left",
+          "color_scheme": "",
+          "full_width": true,
+          "padding_top": 12,
+          "padding_bottom": 0
+        }
+      },
+      "rich_text_iiJb9P": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_VViXRP": {
+            "type": "heading",
+            "settings": {
+              "heading": "Is even better in your hands",
+              "heading_size": "h1"
+            }
+          },
+          "text_zLQwRn": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Fleshligt has made the perfect replica, just for your enjoyment.<\/p><p><em>This is the pocket pussy you've always wanted.<\/em><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "heading_VViXRP",
+          "text_zLQwRn"
+        ],
+        "settings": {
+          "desktop_content_position": "center",
+          "content_alignment": "left",
+          "color_scheme": "",
+          "full_width": true,
+          "padding_top": 0,
+          "padding_bottom": 16
+        }
+      },
+      "featured_product_aTCAgz": {
+        "type": "featured-product",
+        "blocks": {
+          "text_bKxk7r": {
+            "type": "text",
+            "settings": {
+              "text": "{{ section.settings.product.title }}'s Fleshlight",
+              "text_style": "subtitle"
+            }
+          },
+          "text_DFKKjm": {
+            "type": "text",
+            "settings": {
+              "text": "A perfect replica of {{ page.metafields.custom.girl_landing_girl_first_name.value }}'s pussy and ass.",
+              "text_style": "body"
+            }
+          },
+          "title_gBfTf9": {
+            "type": "title",
+            "disabled": true,
+            "settings": {
+              "heading_size": "h1"
+            }
+          },
+          "price_PenNim": {
+            "type": "price",
+            "disabled": true,
+            "settings": {
+            }
+          },
+          "variant_picker_wMDM7z": {
+            "type": "variant_picker",
+            "settings": {
+              "picker_type": "button",
+              "swatch_shape": "circle"
+            }
+          },
+          "quantity_selector_enQp6a": {
+            "type": "quantity_selector",
+            "disabled": true,
+            "settings": {
+            }
+          },
+          "buy_buttons_L3W4Tm": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_dynamic_checkout": true,
+              "show_gift_card_recipient": true
+            }
+          },
+          "share_7NkX3M": {
+            "type": "share",
+            "disabled": true,
+            "settings": {
+              "share_label": "Share"
+            }
+          }
+        },
+        "block_order": [
+          "text_bKxk7r",
+          "text_DFKKjm",
+          "title_gBfTf9",
+          "price_PenNim",
+          "variant_picker_wMDM7z",
+          "quantity_selector_enQp6a",
+          "buy_buttons_L3W4Tm",
+          "share_7NkX3M"
+        ],
+        "settings": {
+          "product": "{{ page.metafields.custom.girl_landing_product.value }}",
+          "color_scheme": "",
+          "secondary_background": false,
+          "media_size": "medium",
+          "constrain_to_viewport": true,
+          "media_fit": "contain",
+          "media_position": "left",
+          "image_zoom": "lightbox",
+          "hide_variants": false,
+          "enable_video_looping": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "rich_text_ygcdnk": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_M7tLFA": {
+            "type": "heading",
+            "settings": {
+              "heading": "Why not make it a combo and save!",
+              "heading_size": "h1"
+            }
+          }
+        },
+        "block_order": [
+          "heading_M7tLFA"
+        ],
+        "settings": {
+          "desktop_content_position": "center",
+          "content_alignment": "center",
+          "color_scheme": "scheme-5",
+          "full_width": true,
+          "padding_top": 24,
+          "padding_bottom": 24
+        }
+      },
+      "featured_product_eAq7HG": {
+        "type": "featured-product",
+        "blocks": {
+          "text_hDrMdP": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "text": "{{ section.settings.product.vendor }}",
+              "text_style": "uppercase"
+            }
+          },
+          "title_pJnmL7": {
+            "type": "title",
+            "settings": {
+              "heading_size": "h1"
+            }
+          },
+          "text_hw4FGE": {
+            "type": "text",
+            "settings": {
+              "text": "Save money by getting her Fleshlight and everyone's favorite lube PLUS a care kit to make her last.",
+              "text_style": "body"
+            }
+          },
+          "price_xKAnqY": {
+            "type": "price",
+            "disabled": true,
+            "settings": {
+            }
+          },
+          "variant_picker_yF7zaK": {
+            "type": "variant_picker",
+            "disabled": true,
+            "settings": {
+              "picker_type": "button",
+              "swatch_shape": "circle"
+            }
+          },
+          "quantity_selector_eBbVVC": {
+            "type": "quantity_selector",
+            "disabled": true,
+            "settings": {
+            }
+          },
+          "buy_buttons_mrrhbb": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_dynamic_checkout": true,
+              "show_gift_card_recipient": true
+            }
+          },
+          "share_PHNyLn": {
+            "type": "share",
+            "disabled": true,
+            "settings": {
+              "share_label": "Share"
+            }
+          }
+        },
+        "block_order": [
+          "text_hDrMdP",
+          "title_pJnmL7",
+          "text_hw4FGE",
+          "price_xKAnqY",
+          "variant_picker_yF7zaK",
+          "quantity_selector_eBbVVC",
+          "buy_buttons_mrrhbb",
+          "share_PHNyLn"
+        ],
+        "settings": {
+          "product": "{{ page.metafields.custom.girl_landing_product_bundle.value }}",
+          "color_scheme": "",
+          "secondary_background": false,
+          "media_size": "medium",
+          "constrain_to_viewport": true,
+          "media_fit": "contain",
+          "media_position": "right",
+          "image_zoom": "lightbox",
+          "hide_variants": false,
+          "enable_video_looping": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      }
+    },
+    "order": [
+      "main",
+      "image_banner_K6mQwF",
+      "image_banner_WabQ6j",
+      "rich_text_TLMyQk",
+      "rich_text_iiJb9P",
+      "featured_product_aTCAgz",
+      "rich_text_ygcdnk",
+      "featured_product_eAq7HG"
+    ]
+  }
+  

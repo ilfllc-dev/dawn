@@ -1,0 +1,207 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "disabled": true,
+        "settings": {
+          "padding_top": 28,
+          "padding_bottom": 28
+        }
+      },
+      "image_banner_kfeYEG": {
+        "type": "image-banner",
+        "custom_css": [
+          "@media (max-width: 749px) {div {display: none !important; }}"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/FL_LotusReturns_Desktop_1980x670_1_0d4e0ae5-8038-4063-91d0-d61f5a5bbab6.jpg",
+          "image_overlay_opacity": 0,
+          "image_height": "adapt",
+          "desktop_content_position": "middle-center",
+          "show_text_box": true,
+          "desktop_content_alignment": "center",
+          "color_scheme": "",
+          "image_behavior": "none",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": true,
+          "show_text_below": true
+        }
+      },
+      "image_banner_AABNyF": {
+        "type": "image-banner",
+        "custom_css": [
+          "@media (min-width: 750px) {div {display: none !important; }}"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/FL_LotusReturns_Mobile_475x570_1_e2c335c3-6cff-483a-8a28-6149ba43827b.jpg",
+          "image_overlay_opacity": 0,
+          "image_height": "adapt",
+          "desktop_content_position": "middle-center",
+          "show_text_box": true,
+          "desktop_content_alignment": "center",
+          "color_scheme": "",
+          "image_behavior": "none",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": true,
+          "show_text_below": true
+        }
+      },
+      "rich_text_Lbdkjn": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_VbLgqN": {
+            "type": "heading",
+            "settings": {
+              "heading": "While Supplies Last",
+              "heading_size": "h1"
+            }
+          },
+          "text_KXac3J": {
+            "type": "text",
+            "settings": {
+              "text": "<p>A classic texture that was a customer favorite <em>(I have <\/em><em><strong>no idea<\/strong><\/em><em> why we stopped selling it!)<\/em><\/p><p>Designed by Fleshlight's early pioneers, it was made to replicate the real thing.<br\/><\/p><p>We've brought a limited amount back, just for you!<\/p>"
+            }
+          },
+          "button_hTWhQe": {
+            "type": "button",
+            "settings": {
+              "button_label": "Get Shopping",
+              "button_link": "shopify:\/\/collections\/best-sellers-1",
+              "button_style_secondary": false,
+              "button_label_2": "Check other Deals",
+              "button_link_2": "shopify:\/\/pages\/deals",
+              "button_style_secondary_2": false
+            }
+          }
+        },
+        "block_order": [
+          "heading_VbLgqN",
+          "text_KXac3J",
+          "button_hTWhQe"
+        ],
+        "settings": {
+          "desktop_content_position": "center",
+          "content_alignment": "center",
+          "color_scheme": "scheme-5",
+          "full_width": true,
+          "padding_top": 40,
+          "padding_bottom": 52
+        }
+      },
+      "image_banner_AXeN4D": {
+        "type": "image-banner",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Lotus_New_GIF.gif",
+          "image_overlay_opacity": 0,
+          "image_height": "adapt",
+          "desktop_content_position": "middle-center",
+          "show_text_box": true,
+          "desktop_content_alignment": "center",
+          "color_scheme": "",
+          "image_behavior": "none",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": true,
+          "show_text_below": true
+        }
+      },
+      "collage_Ga6NTH": {
+        "type": "collage",
+        "blocks": {
+          "product_cxA6EA": {
+            "type": "product",
+            "settings": {
+              "product": "fleshlight-boost-case-blue",
+              "second_image": false
+            }
+          },
+          "collection_pVKJce": {
+            "type": "collection",
+            "settings": {
+              "collection": "fleshlight-girls"
+            }
+          },
+          "collection_fL9XTq": {
+            "type": "collection",
+            "settings": {
+              "collection": "best-sellers-1"
+            }
+          }
+        },
+        "block_order": [
+          "product_cxA6EA",
+          "collection_pVKJce",
+          "collection_fL9XTq"
+        ],
+        "settings": {
+          "heading": "What are you waiting for?",
+          "heading_size": "h1",
+          "desktop_layout": "left",
+          "mobile_layout": "column",
+          "card_styles": "product-card-wrapper",
+          "color_scheme": "",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "collage_ezwwG6": {
+        "type": "collage",
+        "blocks": {
+          "product_dh6Rpj": {
+            "type": "product",
+            "settings": {
+              "product": "ultimate-pack-save-16",
+              "second_image": false
+            }
+          },
+          "product_KAe3hK": {
+            "type": "product",
+            "settings": {
+              "product": "ready-to-launch-1",
+              "second_image": false
+            }
+          },
+          "product_34cLYg": {
+            "type": "product",
+            "settings": {
+              "product": "quickshot-launch",
+              "second_image": false
+            }
+          }
+        },
+        "block_order": [
+          "product_dh6Rpj",
+          "product_KAe3hK",
+          "product_34cLYg"
+        ],
+        "settings": {
+          "heading": "",
+          "heading_size": "h1",
+          "desktop_layout": "right",
+          "mobile_layout": "column",
+          "card_styles": "product-card-wrapper",
+          "color_scheme": "",
+          "padding_top": 8,
+          "padding_bottom": 8
+        }
+      }
+    },
+    "order": [
+      "main",
+      "image_banner_kfeYEG",
+      "image_banner_AABNyF",
+      "rich_text_Lbdkjn",
+      "image_banner_AXeN4D",
+      "collage_Ga6NTH",
+      "collage_ezwwG6"
+    ]
+  }
+  

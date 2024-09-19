@@ -1,0 +1,6 @@
+{% assign widgit_ids = settings.rebuy_widgit_ids | split: ',' %}
+{% for widgit_id in widgit_ids -%}
+  {% if product %}
+    <div data-rebuy-id="{{ widgit_id }}" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
+  {% endif %}
+{% endfor %}

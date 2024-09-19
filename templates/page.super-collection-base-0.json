@@ -1,0 +1,64 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "disabled": true,
+        "settings": {
+          "padding_top": 28,
+          "padding_bottom": 28
+        }
+      },
+      "multirow_zcDTiJ": {
+        "type": "multirow",
+        "blocks": {
+          "row_HbcaEU": {
+            "type": "row",
+            "repeater": "{{ page.metafields.custom.super_collection_collections.value }}",
+            "settings": {
+              "image": "{{ block.repeater.image.value }}",
+              "caption": "",
+              "heading": "{{ block.repeater.title.value }}",
+              "text": "<p>{{ block.repeater.description.value }}<\/p>",
+              "button_label": "Shop Now",
+              "button_link": "{{ block.repeater.collection_url.value }}"
+            }
+          }
+        },
+        "block_order": [
+          "row_HbcaEU"
+        ],
+        "custom_css": [
+          "h2 {background: linear-gradient(135deg, #7ebc51 0, #f7f7f7 100%); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: rgba(0, 0, 0, 0);}"
+        ],
+        "settings": {
+          "image_height": "small",
+          "desktop_image_width": "large",
+          "heading_size": "h1",
+          "text_style": "body",
+          "button_style": "secondary",
+          "desktop_content_position": "middle",
+          "desktop_content_alignment": "left",
+          "image_layout": "alternate-left",
+          "section_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+          "row_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      }
+    },
+    "order": [
+      "main",
+      "multirow_zcDTiJ"
+    ]
+  }
+  

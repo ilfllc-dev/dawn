@@ -35,7 +35,6 @@
         "slide_UU6B3w": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/FL_Mobile_475x570_2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -53,7 +52,6 @@
         "slide_FiKWrX": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/FL_Mobile_475x570_aa057620-03c7-4f65-9c4f-bdedf39e3c04.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -95,7 +93,6 @@
         "@media (max-width: 749px) {div {display: none !important; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/D0LL8Apw.jpg",
         "image_link_url": "",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -116,7 +113,6 @@
         "@media (min-width: 750px) {div {display: none !important; }}"
       ],
       "settings": {
-        "image": "shopify://shop_images/FL_Mobile_475x570_aa057620-03c7-4f65-9c4f-bdedf39e3c04.jpg",
         "image_link_url": "https://www.fleshlight.ca/collections/lubricant-men",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
@@ -136,7 +132,6 @@
         "slide_y9GdDb": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/FL_Desktop_1980x670_5.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -154,7 +149,6 @@
         "slide_4MTtJN": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/D0LL8Apw.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -194,7 +188,6 @@
         "slide_miGg3U": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/FL_Mobile_475x570-Twisted_2dcd247c-c3d5-4412-be52-2b782094709e.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -352,7 +345,6 @@
         "column_hznhGD": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/HBOLogo_1.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -362,7 +354,6 @@
         "column_TqFyeF": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GQLogo_1.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -372,7 +363,6 @@
         "column_7HQE4K": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/social_proof_logo_5_1.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -409,7 +399,6 @@
         "column_EHFhNE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Orgy-6a-Mobile_5ca51d1a-2875-4d34-857d-4753e8255b03.jpg",
             "title": "Buy More Save More",
             "text": "<p>Build your own orgy and invite anyone you want. The more Fleshlight Girls you buy, the more you save!</p>",
             "link_label": "Save Now",
@@ -420,7 +409,6 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/buy2get1free-01Catalog_Mobile-US_1.jpg",
             "title": "Buy 2 Get 1 Free",
             "text": "<p>Shop our Sleeve Only selection, when you buy 2 your 3rd one is free!</p>",
             "link_label": "Save Now",
@@ -430,7 +418,6 @@
         "column_a3tHBE": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FLD-Collection-2022-Combo_Packs_1.jpg",
             "title": "Save over 15%",
             "text": "<p>Shop our premade combos to save up to save.</p>",
             "link_label": "Shop Combos",
@@ -566,8 +553,8 @@
         "button_m3NJ4g": {
           "type": "button",
           "settings": {
-            "button_label": "Read Guide (TODO)",
-            "button_link": "",
+            "button_label": "Read Guide",
+            "button_link": "shopify://pages/buyers-guide",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",

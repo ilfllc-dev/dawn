@@ -1485,25 +1485,5 @@
       "label":"Rebuy Product widgit IDs"
     }
   ]
-},
-{
-  "name": "Fleshlight Store Specific",
-  "settings": [
-    {
-      "type": "text",
-      "id": "google_tag_manager_id",
-      "label": "Google Tag Manager ID"
-    },
-    {
-      "type":"richtext",
-      "id":"store_contact_info",
-      "label":"Contact info for store"
-    },
-    {
-      "type":"text",
-      "id":"rebuy_widgit_ids",
-      "label":"Rebuy Product widgit IDs"
-    }
-  ]
 }
 ]

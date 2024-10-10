@@ -1,53 +1,106 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "footer": {
-      "type": "footer",
+    "1727375536f158ab82": {
+      "type": "apps",
       "blocks": {
-        "footer-0": {
-          "type": "link_list",
+        "rebuy_personalization_engine_rebuy_widget_FkGMtG": {
+          "type": "shopify://apps/rebuy-personalization-engine/blocks/rebuy-widget/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
-          }
-        },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "enabled": true,
+            "id": "171671",
+            "product_id_enabled": true,
+            "collection_id_enabled": false
           }
         }
       },
       "block_order": [
-        "footer-0",
-        "footer-1",
-        "footer-2"
+        "rebuy_personalization_engine_rebuy_widget_FkGMtG"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "include_margins": true
+      }
+    },
+    "newsletter_Y6Hedm": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_TrVziL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Treat Yourself. You deserve it!",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TrVziL"
+      ],
+      "settings": {
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_xJC4Dr": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Shop Sex Toys",
+            "menu": "footer-shop-1"
+          }
+        },
+        "link_list_GddDTg": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Customer Care",
+            "menu": "footer-customer-care"
+          }
+        },
+        "link_list_6m9kmQ": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Discover",
+            "menu": "footer-discover"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_xJC4Dr",
+        "link_list_GddDTg",
+        "link_list_6m9kmQ"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
         "show_social": true,
-        "enable_country_selector": false,
-        "enable_language_selector": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
         "payment_enable": true,
-        "show_policy": false,
-        "margin_top": 48,
+        "show_policy": true,
+        "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
+    "1727375536f158ab82",
+    "newsletter_Y6Hedm",
     "footer"
   ]
 }

@@ -9,9 +9,9 @@
 */
 {
   "current": {
-    "logo": "shopify://shop_images/Fleshlight-CA2.png",
+    "logo": "{{ shop.brand.logo }}",
     "logo_width": 190,
-    "favicon": "shopify://shop_images/Logo-G_1.png",
+    "favicon": "{{ shop.brand.square_logo }}",
     "type_header_font": "din_neuzeit_grotesk_n3",
     "heading_scale": 130,
     "type_body_font": "din_neuzeit_grotesk_n3",

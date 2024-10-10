@@ -8,473 +8,209 @@
 * ------------------------------------------------------------
 */
 {
-    "sections": {
-      "zp-product-header-content": {
-        "type": "product-header-content-zipifypages",
-        "settings": {
-        }
-      },
-      "main": {
-        "type": "main-product",
-        "blocks": {
-          "vendor": {
-            "type": "text",
-            "disabled": true,
-            "settings": {
-              "text": "{{ product.vendor }}",
-              "text_style": "uppercase"
-            }
-          },
-          "title": {
-            "type": "title",
-            "settings": {
-            }
-          },
-          "loox_reviews_loox_rating_7FCfQV": {
-            "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-            "settings": {
-              "contentSize": 16,
-              "pattern": "[rating] | [count] Reviews",
-              "hideText": false,
-              "alignment": "",
-              "layout": "",
-              "textColor": "",
-              "starColor": "",
-              "showAllReviews": false,
-              "looxOpenFloatingWidget": true,
-              "emptyRatingWidget": false
-            }
-          },
-          "price": {
-            "type": "price",
-            "settings": {
-            }
-          },
-          "variant_picker": {
-            "type": "variant_picker",
-            "settings": {
-              "picker_type": "dropdown",
-              "swatch_shape": "circle"
-            }
-          },
-          "text_Qgd3af": {
-            "type": "text",
-            "settings": {
-              "text": "<a href=\"#shopify-section-template--16792999231581__image_with_text_qiQUVR\" title=\"#shopify-section-template--16792999231581__image_with_text_qiQUVR\">More info<\/a>",
-              "text_style": "body"
-            }
-          },
-          "quantity_selector": {
-            "type": "quantity_selector",
-            "disabled": true,
-            "settings": {
-            }
-          },
-          "text_LLqBUr": {
-            "type": "text",
-            "disabled": true,
-            "settings": {
-              "text": "Free FapCap for the first 100 purchases!",
-              "text_style": "body"
-            }
-          },
-          "buy_buttons": {
-            "type": "buy_buttons",
-            "settings": {
-              "show_dynamic_checkout": true,
-              "show_gift_card_recipient": true
-            }
-          },
-          "icon_with_text_FbMgKk": {
-            "type": "icon-with-text",
-            "settings": {
-              "layout": "horizontal",
-              "icon_1": "truck",
-              "heading_1": "<strong>Discreet Shipping<\/strong>",
-              "icon_2": "price_tag",
-              "heading_2": "<strong>Discreet Billing<\/strong>",
-              "icon_3": "lock",
-              "heading_3": "<strong>Secure Checkout<\/strong>"
-            }
-          },
-          "complementary_LwmAGR": {
-            "type": "complementary",
-            "disabled": true,
-            "settings": {
-              "block_heading": "Perfect Additions",
-              "make_collapsible_row": false,
-              "icon": "price_tag",
-              "product_list_limit": 3,
-              "products_per_page": 1,
-              "pagination_style": "dots",
-              "image_ratio": "square",
-              "enable_quick_add": true
-            }
-          },
-          "description": {
-            "type": "description",
-            "disabled": true,
-            "settings": {
-            }
-          },
-          "collapsible_tab_FEbhhy": {
-            "type": "collapsible_tab",
-            "settings": {
-              "heading": "Biography",
-              "icon": "none",
-              "content": "{{ product.metafields.custom.product_page_content.value.biography | metafield_tag }}",
-              "page": ""
-            }
-          },
-          "share": {
-            "type": "share",
-            "disabled": true,
-            "settings": {
-              "share_label": "Share"
-            }
-          },
-          "collapsible_tab_ct8wMX": {
-            "type": "collapsible_tab",
-            "disabled": true,
-            "settings": {
-              "heading": "What's Included",
-              "icon": "none",
-              "content": "{{ product.metafields.custom.what_is_included | metafield_tag }}",
-              "page": ""
-            }
-          },
-          "collapsible_tab_fAtdpJ": {
-            "type": "collapsible_tab",
-            "settings": {
-              "heading": "Dimensions",
-              "icon": "none",
-              "content": "{{ product.metafields.custom.product_size_description | metafield_tag }}",
-              "page": ""
-            }
-          },
-          "collapsible_tab_PkRThr": {
-            "type": "collapsible_tab",
-            "settings": {
-              "heading": "Care Instructions",
-              "icon": "none",
-              "content": "<p><strong>All Fleshlights are body safe made with our patented 100% phthalate-free SuperSkin™ material <\/strong><em><strong>(beware of imitations)<\/strong><\/em><strong>.<\/strong><\/p><p><strong>*Trust Fleshlight-branded products to extend the life of your Fleshlight. Use only water-based lubricants to avoid damaging your Fleshlight.<\/strong><\/p><p>Please follow this link to view our use & care guide:<\/p><p><a href=\"\/blogs\/fleshlife\/how-to-clean-and-care-for-your-fleshlight-2023-edition\" title=\"How To Clean and Care For Your Fleshlight: 2023 Edition\">Clean and Care Guide<\/a><\/p>",
-              "page": ""
-            }
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
           }
         },
-        "block_order": [
-          "vendor",
-          "title",
-          "loox_reviews_loox_rating_7FCfQV",
-          "price",
-          "variant_picker",
-          "text_Qgd3af",
-          "quantity_selector",
-          "text_LLqBUr",
-          "buy_buttons",
-          "icon_with_text_FbMgKk",
-          "complementary_LwmAGR",
-          "description",
-          "collapsible_tab_FEbhhy",
-          "share",
-          "collapsible_tab_ct8wMX",
-          "collapsible_tab_fAtdpJ",
-          "collapsible_tab_PkRThr"
-        ],
-        "custom_css": [
-          "li > svg {height: 30%;}",
-          "span.h4 {font-size: smaller;}"
-        ],
-        "settings": {
-          "enable_sticky_info": true,
-          "color_scheme": "scheme-1",
-          "media_size": "large",
-          "constrain_to_viewport": true,
-          "media_fit": "cover",
-          "gallery_layout": "thumbnail_slider",
-          "media_position": "left",
-          "image_zoom": "lightbox",
-          "mobile_thumbnails": "hide",
-          "hide_variants": true,
-          "enable_video_looping": false,
-          "padding_top": 36,
-          "padding_bottom": 12
-        }
-      },
-      "multicolumn_fkRCJj": {
-        "type": "multicolumn",
-        "blocks": {
-          "column_twPcCd": {
-            "type": "column",
-            "repeater": "{{ product.metafields.custom.product_page_content.value.textures.value }}",
-            "settings": {
-              "image": "{{ block.repeater.texture_image.value }}",
-              "title": "{{ block.repeater.texture_name.value }}",
-              "text": "<p>{{ block.repeater.texture_description.value }}<\/p>",
-              "link_label": "",
-              "link": ""
-            }
+        "loox_reviews_loox_rating_6epLk7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-rating/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "contentSize": 16,
+            "pattern": "",
+            "hideText": false,
+            "alignment": "",
+            "layout": "",
+            "textColor": "",
+            "starColor": "",
+            "showAllReviews": false,
+            "looxOpenFloatingWidget": false,
+            "emptyRatingWidget": false
           }
         },
-        "block_order": [
-          "column_twPcCd"
-        ],
-        "settings": {
-          "title": "",
-          "heading_size": "h1",
-          "image_width": "full",
-          "image_ratio": "adapt",
-          "columns_desktop": 2,
-          "column_alignment": "center",
-          "background_style": "none",
-          "button_label": "",
-          "button_link": "",
-          "color_scheme": "",
-          "columns_mobile": "1",
-          "swipe_on_mobile": true,
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "video_cULVQy": {
-        "type": "video",
-        "settings": {
-          "heading": "Introducing Sasha",
-          "heading_size": "h1",
-          "enable_video_looping": true,
-          "video_url": "https:\/\/vimeo.com\/1005873162",
-          "cover_image": "shopify:\/\/shop_images\/thumb_1.jpg",
-          "description": "Sasha Introduction Video",
-          "full_width": false,
-          "color_scheme": "",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "image_with_text_qiQUVR": {
-        "type": "image-with-text",
-        "blocks": {
-          "heading_rttnV8": {
-            "type": "heading",
-            "settings": {
-              "heading": "Introducing the Interactive FapCap",
-              "heading_size": "h2"
-            }
-          },
-          "text_Bqjtc4": {
-            "type": "text",
-            "settings": {
-              "text": "<p>The Fapcap attaches to your Fleshlight and, when used with interactive videos, creates an immersive sex experience that some say might be better than the 'real thing'. Offering true wireless interactivity, Fapcap provides a seamless, wireless, and secure connection via Bluetooth for hours of interactive fun. It's plug-and-play and does not require additional software. Instead of merely syncing pre-made videos, each Fapcap video is custom-produced to put you in control, offering various ways to interact.<\/p>",
-              "text_style": "body"
-            }
+        "price": {
+          "type": "price",
+          "settings": {
           }
         },
-        "block_order": [
-          "heading_rttnV8",
-          "text_Bqjtc4"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/img-item-02.png",
-          "height": "adapt",
-          "desktop_image_width": "medium",
-          "layout": "image_first",
-          "desktop_content_position": "top",
-          "desktop_content_alignment": "left",
-          "content_layout": "no-overlap",
-          "section_color_scheme": "",
-          "color_scheme": "",
-          "image_behavior": "none",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "slideshow_ak4JhL": {
-        "type": "slideshow",
-        "blocks": {
-          "slide_mn3HmQ": {
-            "type": "slide",
-            "repeater": "{{ product.metafields.custom.product_page_content.value.reviews.value }}",
-            "settings": {
-              "image": "{{ block.repeater.background_image.value }}",
-              "heading": "<strong>\"<\/strong><strong>{{ block.repeater.quote.value }}<\/strong><strong>\"<\/strong>",
-              "heading_size": "h2",
-              "subheading": "{{ block.repeater.author.value }}",
-              "button_label": "",
-              "link": "",
-              "button_style_secondary": false,
-              "box_align": "middle-center",
-              "show_text_box": false,
-              "text_alignment": "center",
-              "image_overlay_opacity": 20,
-              "color_scheme": "scheme-3",
-              "text_alignment_mobile": "center"
-            }
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
-        "block_order": [
-          "slide_mn3HmQ"
-        ],
-        "settings": {
-          "layout": "full_bleed",
-          "slide_height": "medium",
-          "slider_visual": "counter",
-          "auto_rotate": false,
-          "change_slides_speed": 5,
-          "image_behavior": "none",
-          "show_text_below": false,
-          "accessibility_info": "Slideshow about our brand"
-        }
-      },
-      "featured_collection_8VFDJC": {
-        "type": "featured-collection",
-        "settings": {
-          "title": "Enhance Your Sessions",
-          "heading_size": "h1",
-          "description": "<p>Some must-have accessories<\/p>",
-          "show_description": false,
-          "description_style": "body",
-          "collection": "upsell-fullsize",
-          "products_to_show": 4,
-          "columns_desktop": 3,
-          "full_width": false,
-          "show_view_all": false,
-          "view_all_style": "solid",
-          "enable_desktop_slider": true,
-          "color_scheme": "",
-          "image_ratio": "square",
-          "image_shape": "round",
-          "show_secondary_image": false,
-          "show_vendor": false,
-          "show_rating": false,
-          "quick_add": "standard",
-          "columns_mobile": "1",
-          "swipe_on_mobile": true,
-          "padding_top": 16,
-          "padding_bottom": 8
-        }
-      },
-      "collapsible_content_hBd8Xr": {
-        "type": "collapsible-content",
-        "blocks": {
-          "collapsible_row_gWbgfa": {
-            "type": "collapsible_row",
-            "settings": {
-              "heading": "{{ product.title }}'s Bio",
-              "icon": "none",
-              "row_content": "{{ product.metafields.custom.product_page_content.value.biography | metafield_tag }}",
-              "page": ""
-            }
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
           }
         },
-        "block_order": [
-          "collapsible_row_gWbgfa"
-        ],
-        "disabled": true,
-        "custom_css": [
-          ".collapsible-content-wrapper-narrow {max-width: none !important;}"
-        ],
-        "settings": {
-          "caption": "",
-          "heading": "",
-          "heading_size": "h2",
-          "heading_alignment": "left",
-          "layout": "none",
-          "color_scheme": "",
-          "container_color_scheme": "",
-          "open_first_collapsible_row": false,
-          "image_ratio": "adapt",
-          "desktop_layout": "image_second",
-          "padding_top": 0,
-          "padding_bottom": 36
-        }
-      },
-      "related-products": {
-        "type": "related-products",
-        "settings": {
-          "heading": "You may also like",
-          "heading_size": "h2",
-          "products_to_show": 4,
-          "columns_desktop": 4,
-          "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
-          "image_ratio": "square",
-          "image_shape": "default",
-          "show_secondary_image": false,
-          "show_vendor": false,
-          "show_rating": false,
-          "columns_mobile": "2",
-          "padding_top": 36,
-          "padding_bottom": 28
-        }
-      },
-      "1714418794b1904e7c": {
-        "type": "apps",
-        "blocks": {
-          "yotpo_product_reviews_ugc_reviews_wk476D": {
-            "type": "shopify:\/\/apps\/yotpo-product-reviews-ugc\/blocks\/reviews\/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-            "settings": {
-              "product": "{{product}}"
-            }
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
           }
         },
-        "block_order": [
-          "yotpo_product_reviews_ugc_reviews_wk476D"
-        ],
-        "settings": {
-          "include_margins": true
-        }
-      },
-      "custom_liquid_TCXAw3": {
-        "type": "custom-liquid",
-        "settings": {
-          "custom_liquid": "<script>\nwindow.addEventListener('load', function() {\nvar _learnq = window._learnq || [];\nfunction addedToCart() {\n  fetch(`${window.location.origin}\/cart.js`)\n  .then(res => res.clone().json().then(data => {\n    var cart = {\n      total_price: data.total_price\/100,\n      $value: data.total_price\/100,\n      total_discount: data.total_discount,\n      original_total_price: data.original_total_price\/100,\n      items: data.items\n    }\n    if (item !== 'undefined') {\n      cart = Object.assign(cart, item)\n    }\n    if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', cart]);\n        klAjax = false;\n      }\n  }))\n};\n(function (ns, fetch) {\n  ns.fetch = function() {\n    const response = fetch.apply(this, arguments);\n    response.then(res => {\n      if (`${window.location.origin}\/cart\/add.js`\n      \t.includes(res.url)) {\n        \taddedToCart()\n      }\n    });\n    return response\n  }\n}(window, window.fetch));\nvar klAjax = true;\nvar atcButtons = document.querySelectorAll(\"form[action*='\/cart\/add'] button[type='submit']\");\nfor (var i = 0; i < atcButtons.length; i++) {\n    atcButtons[i].addEventListener(\"click\", function() {\n      if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', item]);\n        klAjax = false;\n      }\n    })\n}\n});\n<\/script>",
-          "color_scheme": "",
-          "padding_top": 0,
-          "padding_bottom": 0
-        }
-      },
-      "1718719889977efe6e": {
-        "type": "apps",
-        "blocks": {
-          "loox_reviews_loox_dynamic_section_je9qRA": {
-            "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-            "settings": {
-              "only_photos": false,
-              "aggregated": false,
-              "limit": 20,
-              "hide_thumbnails": true,
-              "maxwidth": 1080,
-              "is_sample": true
-            }
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
           }
         },
-        "block_order": [
-          "loox_reviews_loox_dynamic_section_je9qRA"
-        ],
-        "settings": {
-          "include_margins": true
+        "complementary_Wak7hD": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": false,
+            "icon": "price_tag",
+            "product_list_limit": 10,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
+        },
+        "collapsible_tab_Bhh3TV": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "More Info",
+            "icon": "none",
+            "content": "{{ product.metafields.custom.long_description | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab_HwpFRw": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "What's Included",
+            "icon": "none",
+            "content": "{{ product.metafields.custom.what_is_included | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab_dqBUBc": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Instructions",
+            "icon": "none",
+            "content": "<p><strong>All Fleshlights are body safe made with our patented 100% phthalate-free SuperSkin™ material </strong><em><strong>(beware of imitations)</strong></em><strong>.</strong></p><p><strong>*Trust Fleshlight-branded products to extend the life of your Fleshlight. Use only water-based lubricants to avoid damaging your Fleshlight.</strong></p>",
+            "page": ""
+          }
         }
       },
-      "zp-product-footer-content": {
-        "type": "product-footer-content-zipifypages",
-        "settings": {
-        }
+      "block_order": [
+        "title",
+        "loox_reviews_loox_rating_6epLk7",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "complementary_Wak7hD",
+        "collapsible_tab_Bhh3TV",
+        "collapsible_tab_HwpFRw",
+        "collapsible_tab_dqBUBc"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
       }
     },
-    "order": [
-      "zp-product-header-content",
-      "main",
-      "multicolumn_fkRCJj",
-      "video_cULVQy",
-      "image_with_text_qiQUVR",
-      "slideshow_ak4JhL",
-      "featured_collection_8VFDJC",
-      "collapsible_content_hBd8Xr",
-      "related-products",
-      "1714418794b1904e7c",
-      "custom_liquid_TCXAw3",
-      "1718719889977efe6e",
-      "zp-product-footer-content"
-    ]
-  }
-  
+    "172727811912d789d5": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_testimonial_carousel_section_Lc34Pt": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-testimonial-carousel-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "maxWidth": 1100,
+            "desktopFontSize": 32,
+            "mobileFontSize": 20,
+            "maxNumberOfCharacters": 100,
+            "quoteMarkIcon": "style-1",
+            "reviewerNameColor": "#000000",
+            "textColor": "#000000",
+            "starsColor": "",
+            "quotesIconColor": "#EAEAEA",
+            "arrows_iconColor": "#000000",
+            "arrows_hideOnMobile": true,
+            "pagination_active": true,
+            "pagination_selectedDotColor": "#000000",
+            "pagination_dotColor": "#000000",
+            "autoplay_active": false,
+            "autoplay_duration": 2,
+            "productIds": "{{ product }}"
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_testimonial_carousel_section_Lc34Pt"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "17272800922d3ff0ec": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_ECAwpD": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_ECAwpD"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "172727811912d789d5",
+    "related-products",
+    "17272800922d3ff0ec"
+  ]
+}

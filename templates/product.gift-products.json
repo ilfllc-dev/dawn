@@ -9,11 +9,6 @@
 */
 {
     "sections": {
-      "zp-product-header-content": {
-        "type": "product-header-content-zipifypages",
-        "settings": {
-        }
-      },
       "image_banner_GkAMmH": {
         "type": "image-banner",
         "disabled": true,
@@ -456,15 +451,9 @@
         "settings": {
           "include_margins": false
         }
-      },
-      "zp-product-footer-content": {
-        "type": "product-footer-content-zipifypages",
-        "settings": {
-        }
       }
     },
     "order": [
-      "zp-product-header-content",
       "image_banner_GkAMmH",
       "main",
       "slideshow_ak4JhL",
@@ -475,7 +464,6 @@
       "related-products",
       "custom_liquid_RWPJjt",
       "1718719752c9635376",
-      "zp-product-footer-content"
     ]
   }
   

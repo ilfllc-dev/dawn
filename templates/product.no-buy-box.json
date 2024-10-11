@@ -9,11 +9,6 @@
 */
 {
     "sections": {
-      "zp-product-header-content": {
-        "type": "product-header-content-zipifypages",
-        "settings": {
-        }
-      },
       "main": {
         "type": "main-product",
         "blocks": {
@@ -374,11 +369,6 @@
           "include_margins": false
         }
       },
-      "zp-product-footer-content": {
-        "type": "product-footer-content-zipifypages",
-        "settings": {
-        }
-      },
       "172547906529a82e0e": {
         "type": "apps",
         "blocks": {
@@ -421,7 +411,6 @@
       }
     },
     "order": [
-      "zp-product-header-content",
       "main",
       "slideshow_ak4JhL",
       "image_with_text_PVtiLP",
@@ -430,7 +419,6 @@
       "related-products",
       "custom_liquid_RWPJjt",
       "1718719752c9635376",
-      "zp-product-footer-content",
       "172547906529a82e0e",
       "17254798242c2a93f5"
     ]

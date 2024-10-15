@@ -345,6 +345,7 @@
         "column_hznhGD": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/HBOLogo_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -354,6 +355,7 @@
         "column_TqFyeF": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/GQLogo_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -363,6 +365,7 @@
         "column_7HQE4K": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/social_proof_logo_5_2.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -399,10 +402,21 @@
         "column_EHFhNE": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Orgy-6a-Mobile_4f7254b8-9411-4f76-8ed1-52f15be8c469.jpg",
             "title": "Buy More Save More",
             "text": "<p>Build your own orgy and invite anyone you want. The more Fleshlight Girls you buy, the more you save!</p>",
             "link_label": "Save Now",
             "link": "shopify://collections/orgy"
+          }
+        },
+        "column_a3tHBE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FLD-Collection-2022-Combo_Packs_2.webp",
+            "title": "Save over 15%",
+            "text": "<p>Shop our premade combos to save up to save.</p>",
+            "link_label": "Shop Combos",
+            "link": "shopify://collections/fleshlight-combo-packs"
           }
         },
         "column_JCb4Ae": {
@@ -414,21 +428,12 @@
             "link_label": "Save Now",
             "link": "shopify://collections/sleeves"
           }
-        },
-        "column_a3tHBE": {
-          "type": "column",
-          "settings": {
-            "title": "Save over 15%",
-            "text": "<p>Shop our premade combos to save up to save.</p>",
-            "link_label": "Shop Combos",
-            "link": "shopify://collections/fleshlight-combo-packs"
-          }
         }
       },
       "block_order": [
         "column_EHFhNE",
-        "column_JCb4Ae",
-        "column_a3tHBE"
+        "column_a3tHBE",
+        "column_JCb4Ae"
       ],
       "settings": {
         "title": "Lookin' for a deal?",

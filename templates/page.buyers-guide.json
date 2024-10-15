@@ -1,205 +1,204 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-    "sections": {
-      "main": {
-        "type": "main-page",
-        "disabled": true,
-        "settings": {
-          "padding_top": 28,
-          "padding_bottom": 28
-        }
-      },
-      "image_banner_KNpHeW": {
-        "type": "image-banner",
-        "blocks": {
-          "heading_gejkBF": {
-            "type": "heading",
-            "settings": {
-              "heading": "Fleshlight Buyers Guide",
-              "heading_size": "h0"
-            }
-          },
-          "text_HDtPq7": {
-            "type": "text",
-            "settings": {
-              "text": "<strong>The highest quality sex toys around. Proudly designed and manufactured in the USA.<\/strong>",
-              "text_style": "subtitle"
-            }
-          }
-        },
-        "block_order": [
-          "heading_gejkBF",
-          "text_HDtPq7"
-        ],
-        "settings": {
-          "image": "shopify:\/\/shop_images\/Screenshot_2023-02-13_at_10.16.38_AM_49fb32ea-e049-413a-b9a4-91d5eefdd966.png",
-          "image_overlay_opacity": 30,
-          "image_height": "medium",
-          "desktop_content_position": "middle-center",
-          "show_text_box": false,
-          "desktop_content_alignment": "center",
-          "color_scheme": "scheme-3",
-          "image_behavior": "none",
-          "mobile_content_alignment": "center",
-          "stack_images_on_mobile": false,
-          "show_text_below": false
-        }
-      },
-      "multirow_xUFtQw": {
-        "type": "multirow",
-        "blocks": {
-          "row_dyakcK": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Fleshlight_KATYA_CLOVER_STU_H4A4989_0021_1.jpg",
-              "caption": "Practice Makes Perfect",
-              "heading": "Stamina Training",
-              "text": "<p>Every guy wants to last longer, right? This has our Stamina Training Unit (STU) texture inside a gold case.<\/p>",
-              "button_label": "Buy Here",
-              "button_link": "shopify:\/\/products\/stamina-training-unit"
-            }
-          },
-          "row_QBCUNq": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/BlueCase-GridBottomLeft.png",
-              "caption": "Most advanced Fleshlight",
-              "heading": "Boost",
-              "text": "<p>Everything you love about a Fleshlight turned up to 11! More realistic orifices, tighter texture and a better suction control.<\/p>",
-              "button_label": "Buy Here",
-              "button_link": "shopify:\/\/products\/boost"
-            }
-          },
-          "row_Lmxgf4": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Quickshot_Launch_Emily_Willis_Pack-WebAssets-Bottom-Left-Grid-Lifestyle.jpg",
-              "caption": "let us do the work",
-              "heading": "Fleshlight Launch",
-              "text": "<p>Hands free! Just insert a toy and get to work. Has adjustable speed and stroke control.<\/p>",
-              "button_label": "Buy Now",
-              "button_link": "shopify:\/\/collections\/universal-launch"
-            }
-          },
-          "row_AfwFUg": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/TurboCore-WebAssets-2023-Squares-Lifestyle-Slider-5_a40089a5-7944-48f4-a343-2af5d85c9520.jpg",
-              "caption": "ultimate blowjob experience",
-              "heading": "Turbo",
-              "text": "<p>Tripled tiered entrance mimics the feeling of the ultimate blow job. It's awesome, check it out!<\/p>",
-              "button_label": "Buy Now",
-              "button_link": "shopify:\/\/products\/turbo"
-            }
-          },
-          "row_ygXxAR": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/emily-willis-ultimate-pack-fleshlight-726247.jpg",
-              "caption": "get inside your favorite stars",
-              "heading": "Fleshlight Girls",
-              "text": "<p>Perfect replicas of your favorite stars' vaginas and butts. See what all the hype is about!<\/p>",
-              "button_label": "Check them out",
-              "button_link": "shopify:\/\/collections\/fleshlight-girls"
-            }
-          },
-          "row_GeLfMp": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/quickshot-vantage-pack-fleshlight-477822.png",
-              "caption": "Small, but mighty",
-              "heading": "Quickshot",
-              "text": "<p>Great for couples and for solo use. Opened ended design gives a very unique experience.<\/p>",
-              "button_label": "Buy Here",
-              "button_link": "shopify:\/\/collections\/quickshot"
-            }
-          },
-          "row_UbUqNd": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/ice-lady-fleshlight-915628.jpg",
-              "caption": "See Yourself in Action",
-              "heading": "See Through",
-              "text": "<p>Everything looks bigger underwater, right? Same with our see-through material see yourself grow.<\/p>",
-              "button_label": "Buy Here",
-              "button_link": "shopify:\/\/products\/ice-lady"
-            }
-          },
-          "row_FHCJ4D": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/FLESHLIGHT_Katya_Clover_CLASSIC-Art_8539_005.jpg",
-              "caption": "The one that started it all",
-              "heading": "Classics",
-              "text": "<p>The original color and textures! Nothing beats a classic, see what started all the hype.<\/p>",
-              "button_label": "Buy Now",
-              "button_link": "shopify:\/\/products\/classic"
-            }
-          },
-          "row_FXACyT": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/H4A1823_Katya_GO_20150204.jpg",
-              "caption": "Even More discrete",
-              "heading": "Flight and Go",
-              "text": "<p>Compact toys perfect for travel, or a little tighter experience. <\/p>",
-              "button_label": "Buy Now",
-              "button_link": "shopify:\/\/collections\/flight-and-go"
-            }
-          },
-          "row_Y7DzDa": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/fleshskins-blue-ice-with-case-fleshlight-193272.jpg",
-              "caption": "Give yourself a hand",
-              "heading": "Fleshskins®",
-              "text": "<p>A great place to start. Tired of your hand, or that dirty old sock? Give our Fleshskins® a go! It won't disappoint.<\/p>",
-              "button_label": "Buy Now",
-              "button_link": "shopify:\/\/products\/fleshskins-blue-ice"
-            }
-          }
-        },
-        "block_order": [
-          "row_dyakcK",
-          "row_QBCUNq",
-          "row_Lmxgf4",
-          "row_AfwFUg",
-          "row_ygXxAR",
-          "row_GeLfMp",
-          "row_UbUqNd",
-          "row_FHCJ4D",
-          "row_FXACyT",
-          "row_Y7DzDa"
-        ],
-        "settings": {
-          "image_height": "medium",
-          "desktop_image_width": "medium",
-          "heading_size": "h1",
-          "text_style": "body",
-          "button_style": "secondary",
-          "desktop_content_position": "middle",
-          "desktop_content_alignment": "left",
-          "image_layout": "alternate-left",
-          "section_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
-          "row_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
-    "order": [
-      "main",
-      "image_banner_KNpHeW",
-      "multirow_xUFtQw"
-    ]
-  }
-  
+    "image_banner_KNpHeW": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_gejkBF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fleshlight Buyers Guide",
+            "heading_size": "h0"
+          }
+        },
+        "text_HDtPq7": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>The highest quality sex toys around. Proudly designed and manufactured in the USA.</strong>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gejkBF",
+        "text_HDtPq7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Screenshot_2023-02-13_at_10.16.38_AM_49fb32ea-e049-413a-b9a4-91d5eefdd966.png",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "multirow_xUFtQw": {
+      "type": "multirow",
+      "blocks": {
+        "row_dyakcK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Fleshlight_KATYA_CLOVER_STU_H4A4989_0021_1.jpg",
+            "caption": "Practice Makes Perfect",
+            "heading": "Stamina Training",
+            "text": "<p>Every guy wants to last longer, right? This has our Stamina Training Unit (STU) texture inside a gold case.</p>",
+            "button_label": "Buy Here",
+            "button_link": "shopify://products/stamina-training-unit"
+          }
+        },
+        "row_QBCUNq": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/BlueCase-GridBottomLeft.png",
+            "caption": "Most advanced Fleshlight",
+            "heading": "Boost",
+            "text": "<p>Everything you love about a Fleshlight turned up to 11! More realistic orifices, tighter texture and a better suction control.</p>",
+            "button_label": "Buy Here",
+            "button_link": "shopify://products/boost"
+          }
+        },
+        "row_Lmxgf4": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Quickshot_Launch_Emily_Willis_Pack-WebAssets-Bottom-Left-Grid-Lifestyle.jpg",
+            "caption": "let us do the work",
+            "heading": "Fleshlight Launch",
+            "text": "<p>Hands free! Just insert a toy and get to work. Has adjustable speed and stroke control.</p>",
+            "button_label": "Buy Now",
+            "button_link": "shopify://collections/universal-launch"
+          }
+        },
+        "row_AfwFUg": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/TurboCore-WebAssets-2023-Squares-Lifestyle-Slider-5_a40089a5-7944-48f4-a343-2af5d85c9520.jpg",
+            "caption": "ultimate blowjob experience",
+            "heading": "Turbo",
+            "text": "<p>Tripled tiered entrance mimics the feeling of the ultimate blow job. It's awesome, check it out!</p>",
+            "button_label": "Buy Now",
+            "button_link": "shopify://products/turbo"
+          }
+        },
+        "row_ygXxAR": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/emily-willis-ultimate-pack-fleshlight-726247.jpg",
+            "caption": "get inside your favorite stars",
+            "heading": "Fleshlight Girls",
+            "text": "<p>Perfect replicas of your favorite stars' vaginas and butts. See what all the hype is about!</p>",
+            "button_label": "Check them out",
+            "button_link": "shopify://collections/fleshlight-girls"
+          }
+        },
+        "row_GeLfMp": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/quickshot-vantage-pack-fleshlight-477822_1.png",
+            "caption": "Small, but mighty",
+            "heading": "Quickshot",
+            "text": "<p>Great for couples and for solo use. Opened ended design gives a very unique experience.</p>",
+            "button_label": "Buy Here",
+            "button_link": "shopify://collections/quickshot"
+          }
+        },
+        "row_UbUqNd": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/ice-lady-fleshlight-915628.jpg",
+            "caption": "See Yourself in Action",
+            "heading": "See Through",
+            "text": "<p>Everything looks bigger underwater, right? Same with our see-through material see yourself grow.</p>",
+            "button_label": "Buy Here",
+            "button_link": "shopify://products/ice-lady"
+          }
+        },
+        "row_FHCJ4D": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/FLESHLIGHT_Katya_Clover_CLASSIC-Art_8539_005.jpg",
+            "caption": "The one that started it all",
+            "heading": "Classics",
+            "text": "<p>The original color and textures! Nothing beats a classic, see what started all the hype.</p>",
+            "button_label": "Buy Now",
+            "button_link": "shopify://products/classic"
+          }
+        },
+        "row_FXACyT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/H4A1823_Katya_GO_20150204.jpg",
+            "caption": "Even More discrete",
+            "heading": "Flight and Go",
+            "text": "<p>Compact toys perfect for travel, or a little tighter experience. </p>",
+            "button_label": "Buy Now",
+            "button_link": "shopify://collections/flight-and-go"
+          }
+        },
+        "row_Y7DzDa": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/fleshskins-blue-ice-with-case-fleshlight-193272_1.jpg",
+            "caption": "Give yourself a hand",
+            "heading": "Fleshskins®",
+            "text": "<p>A great place to start. Tired of your hand, or that dirty old sock? Give our Fleshskins® a go! It won't disappoint.</p>",
+            "button_label": "Buy Now",
+            "button_link": "shopify://products/fleshskins-blue-ice"
+          }
+        }
+      },
+      "block_order": [
+        "row_dyakcK",
+        "row_QBCUNq",
+        "row_Lmxgf4",
+        "row_AfwFUg",
+        "row_ygXxAR",
+        "row_GeLfMp",
+        "row_UbUqNd",
+        "row_FHCJ4D",
+        "row_FXACyT",
+        "row_Y7DzDa"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "row_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_KNpHeW",
+    "multirow_xUFtQw"
+  ]
+}

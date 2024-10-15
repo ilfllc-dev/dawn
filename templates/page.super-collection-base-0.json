@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -17,24 +17,24 @@
         "padding_bottom": 28
       }
     },
-    "multirow_fQGdPf": {
+    "multirow_zcDTiJ": {
       "type": "multirow",
       "blocks": {
-        "row_jqEcGD": {
+        "row_HbcaEU": {
           "type": "row",
-          "source": "{{ page.metafields.custom.super_collection_collections.value }}",
+          "repeater": "{{ page.metafields.custom.super_collection_collections.value }}",
           "settings": {
-            "image": "{{ page.metafields.custom.super_collection_collections.value.image.value }}",
-            "caption": "{{ page.metafields.custom.super_collection_collections.value.tag_line.value }}",
-            "heading": "{{ page.metafields.custom.super_collection_collections.value.title.value }}",
-            "text": "<p>{{ page.metafields.custom.super_collection_collections.value.description.value }}</p>",
+            "image": "{{ block.repeater.image.value }}",
+            "caption": "",
+            "heading": "{{ block.repeater.title.value }}",
+            "text": "<p>{{ block.repeater.description.value }}</p>",
             "button_label": "Shop Now",
-            "button_link": "{{ page.metafields.custom.super_collection_collections.value.collection_url.value }}"
+            "button_link": "{{ block.repeater.collection_url.value }}"
           }
         }
       },
       "block_order": [
-        "row_jqEcGD"
+        "row_HbcaEU"
       ],
       "custom_css": [
         "h2 {background: linear-gradient(135deg, #7ebc51 0, #f7f7f7 100%); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: rgba(0, 0, 0, 0);}"
@@ -55,10 +55,10 @@
         "padding_bottom": 36
       }
     },
-    "collapsible_content_xikW3y": {
+    "collapsible_content_wzxkzc": {
       "type": "collapsible-content",
       "blocks": {
-        "collapsible_row_cYckMW": {
+        "collapsible_row_indgRz": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Learn more",
@@ -69,7 +69,7 @@
         }
       },
       "block_order": [
-        "collapsible_row_cYckMW"
+        "collapsible_row_indgRz"
       ],
       "settings": {
         "caption": "",
@@ -77,8 +77,8 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
-        "container_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "color_scheme": "",
+        "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -89,7 +89,7 @@
   },
   "order": [
     "main",
-    "multirow_fQGdPf",
-    "collapsible_content_xikW3y"
+    "multirow_zcDTiJ",
+    "collapsible_content_wzxkzc"
   ]
 }

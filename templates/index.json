@@ -282,6 +282,7 @@
         "slide_FRwz76",
         "slide_jaYzt3"
       ],
+      "disabled": true,
       "custom_css": [
         "@media (min-width: 750px) {div {display: none !important; }}",
         ".slideshow__controls {display: none;}"

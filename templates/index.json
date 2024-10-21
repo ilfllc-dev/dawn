@@ -35,6 +35,7 @@
         "slide_UU6B3w": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/FL_Desktop_1980x670_decd8001-7365-4b30-a7c9-a2536cbf553c.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -132,11 +133,12 @@
         "slide_y9GdDb": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Sasha_Nakamoto__Desktop_1980x670_d87ee6f1-9860-475d-abfe-e02b46edd98e_2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/best-sellers-1",
+            "link": "shopify://products/sasha-nakamoto",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -149,11 +151,12 @@
         "slide_4MTtJN": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/FL_Desktop_1980x670_decd8001-7365-4b30-a7c9-a2536cbf553c.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/lubricant-men",
+            "link": "shopify://collections/cock-rings-men",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,

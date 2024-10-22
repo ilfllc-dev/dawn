@@ -35,11 +35,12 @@
         "slide_FiKWrX": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570-Bigfoot_07d17b1d-5677-4eee-9493-49075a018deb.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Button label",
-            "link": "shopify://collections/lubricant-men",
+            "button_label": "",
+            "link": "shopify://collections/fleshlight-fantasy",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,

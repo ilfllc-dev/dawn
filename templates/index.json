@@ -9,6 +9,84 @@
  */
 {
   "sections": {
+    "fleshlight_slideshow_qj4zp4": {
+      "type": "fleshlight-slideshow",
+      "blocks": {
+        "slide_y9GdDb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Sasha_Nakamoto__Desktop_1980x670_d87ee6f1-9860-475d-abfe-e02b46edd98e_2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://products/sasha-nakamoto",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_4MTtJN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Desktop_1980x670_decd8001-7365-4b30-a7c9-a2536cbf553c.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/cock-rings-men",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_BhwEwm": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/FL_Desktop_1980x670_646f6ba2-bf05-495d-acb1-0b859818b997.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "https://au.fleshlight.com/pages/la-muerta-and-la-calavera",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_y9GdDb",
+        "slide_4MTtJN",
+        "slide_BhwEwm"
+      ],
+      "custom_css": [
+        "@media (max-width: 749px) {div {display: none !important; }}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
     "fleshlight_image_banner_AkLLqA": {
       "type": "fleshlight-image-banner",
       "custom_css": [
@@ -144,84 +222,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "fleshlight_slideshow_qj4zp4": {
-      "type": "fleshlight-slideshow",
-      "blocks": {
-        "slide_y9GdDb": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/Sasha_Nakamoto__Desktop_1980x670_d87ee6f1-9860-475d-abfe-e02b46edd98e_2.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://products/sasha-nakamoto",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_4MTtJN": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/FL_Desktop_1980x670_decd8001-7365-4b30-a7c9-a2536cbf553c.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://collections/cock-rings-men",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_BhwEwm": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Sasha_Nakamoto_Mobile_475x570_4e5b8b27-0416-42cf-84b3-99d6ab1f43d0_1.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify://products/sasha-nakamoto",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_y9GdDb",
-        "slide_4MTtJN",
-        "slide_BhwEwm"
-      ],
-      "custom_css": [
-        "@media (max-width: 749px) {div {display: none !important; }}"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": ""
       }
     },
     "fleshlight_slideshow_3HfHMG": {
@@ -796,11 +796,11 @@
     }
   },
   "order": [
+    "fleshlight_slideshow_qj4zp4",
     "fleshlight_image_banner_AkLLqA",
     "fleshlight_slideshow_93VbkX",
     "fleshlight_image_banner_7aJAUn",
     "fleshlight_image_banner_dAh8zd",
-    "fleshlight_slideshow_qj4zp4",
     "fleshlight_slideshow_3HfHMG",
     "rich_text_Ecjx7a",
     "multicolumn_UJpAFi",

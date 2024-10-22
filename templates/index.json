@@ -40,7 +40,7 @@
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify://collections/fleshlight-fantasy",
+            "link": "shopify://collections/fantasy",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -49,10 +49,29 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_3LMgqg": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570_45359727-a356-4ab2-a426-d039c7ace8dd.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://collections/cock-rings-men",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_FiKWrX"
+        "slide_FiKWrX",
+        "slide_3LMgqg"
       ],
       "custom_css": [
         "@media (min-width: 750px) {div {display: none !important; }}",

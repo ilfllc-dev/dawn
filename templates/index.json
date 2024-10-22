@@ -110,6 +110,25 @@
     "fleshlight_slideshow_93VbkX": {
       "type": "fleshlight-slideshow",
       "blocks": {
+        "slide_e9xhTz": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/FL_Mobile_475x570_32622bab-73ea-4040-bb60-d9ae6d3c670e.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "https://au.fleshlight.com/pages/la-muerta-and-la-calavera",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_FiKWrX": {
           "type": "slide",
           "settings": {
@@ -166,6 +185,7 @@
         }
       },
       "block_order": [
+        "slide_e9xhTz",
         "slide_FiKWrX",
         "slide_3LMgqg",
         "slide_XeeaYX"

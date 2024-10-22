@@ -166,11 +166,30 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_BhwEwm": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Sasha_Nakamoto_Mobile_475x570_4e5b8b27-0416-42cf-84b3-99d6ab1f43d0_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify://products/sasha-nakamoto",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_y9GdDb",
-        "slide_4MTtJN"
+        "slide_4MTtJN",
+        "slide_BhwEwm"
       ],
       "custom_css": [
         "@media (max-width: 749px) {div {display: none !important; }}"

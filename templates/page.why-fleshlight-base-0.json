@@ -1,139 +1,138 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-    "sections": {
-      "main": {
-        "type": "main-page",
-        "settings": {
-          "padding_top": 28,
-          "padding_bottom": 28
-        }
-      },
-      "multirow_jjpaFU": {
-        "type": "multirow",
-        "blocks": {
-          "row_tYifjm": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/fleshlight-case-black-fleshlight-357728.png",
-              "caption": "",
-              "heading": "The Fleshlight Case",
-              "text": "<p>Removable cap conceals fleshy case and keeps it clean for your next use.<\/p><p>Adjustable end cap controls the amount of suction.<\/p><p>For even more suction control, check out our<a href=\"\/products\/fleshlight-boost-case-blue\" title=\"Advanced Suction Control Case\"> Advanced Sunction case<\/a>!<\/p>",
-              "button_label": "Shop Cases",
-              "button_link": "shopify:\/\/collections\/cases"
-            }
-          },
-          "row_689tRV": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/original-pink-sleeve-fleshlight-209773.jpg",
-              "caption": "Where the magic happens",
-              "heading": "Removable Inner Sleeve",
-              "text": "<p>Sleeves are all made from Real Feel Superskin™ which feels so much like real skin, it's unreal.<\/p>",
-              "button_label": "Shop Sleeves",
-              "button_link": "shopify:\/\/collections\/sleeves"
-            }
-          },
-          "row_8HEPFM": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/sleeve-warmer-fleshlight-795169.jpg",
-              "caption": "Make it even more real",
-              "heading": "Warm to the Touch",
-              "text": "<p>Soak your Fleshlight in warm water, or use our Sleeve Warmer for an even more realistic experience.<\/p>",
-              "button_label": "Shop Sleeve Warmer",
-              "button_link": "shopify:\/\/collections\/sleeve-warmers"
-            }
-          },
-          "row_xRXJEY": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/fleshlight-product-care-kit-4oz-fleshlight-194407.png",
-              "caption": "Fresh and Clean",
-              "heading": "Easy to Clean",
-              "text": "<p>Just wash your Fleshlight under warm water. For best results, clean periodically with Fleshwash™.<\/p><p>More detailed instructions can be found here: <a href=\"\/blogs\/fleshlife\/how-to-clean-and-care-for-your-fleshlight-2023-edition\" title=\"How To Clean and Care For Your Fleshlight: 2023 Edition\">Post on how to clean your Fleshlight<\/a><\/p>",
-              "button_label": "Shop Cleaning",
-              "button_link": "shopify:\/\/collections\/product-care"
-            }
-          },
-          "row_DQ3WFQ": {
-            "type": "row",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Fleshlight_Girls_88a17288-06fa-486b-932c-2b59359e7050.jpg",
-              "caption": "Get inside your favorite stars",
-              "heading": "Fleshlight Girls",
-              "text": "<p>Live out your fantasies with perfect replicas of all your favorite stars.<\/p><p>Here's a more <a href=\"\/blogs\/fleshlife\/the-fleshlight-girl-molding-process-step-by-step\" title=\"The Fleshlight Girl Molding Process: Step-By-Step\">detailed look at how the Fleshlight Girls are made<\/a>.<\/p>",
-              "button_label": "Shop Fleshlight Girls",
-              "button_link": "shopify:\/\/collections\/fleshlight-girls"
-            }
-          }
-        },
-        "block_order": [
-          "row_tYifjm",
-          "row_689tRV",
-          "row_8HEPFM",
-          "row_xRXJEY",
-          "row_DQ3WFQ"
-        ],
-        "custom_css": [
-          "h2 {background: linear-gradient(135deg, #7ebc51 0, #F7F7F7 100%); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: rgba(0, 0, 0, 0);}"
-        ],
-        "settings": {
-          "image_height": "medium",
-          "desktop_image_width": "medium",
-          "heading_size": "h1",
-          "text_style": "body",
-          "button_style": "primary",
-          "desktop_content_position": "middle",
-          "desktop_content_alignment": "left",
-          "image_layout": "alternate-left",
-          "section_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
-          "row_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
-          "mobile_content_alignment": "left",
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
-      },
-      "featured_collection_NjLYw7": {
-        "type": "featured-collection",
-        "settings": {
-          "title": "Best Sellers",
-          "heading_size": "h1",
-          "description": "",
-          "show_description": false,
-          "description_style": "body",
-          "collection": "best-sellers-1",
-          "products_to_show": 4,
-          "columns_desktop": 4,
-          "full_width": false,
-          "show_view_all": true,
-          "view_all_style": "solid",
-          "enable_desktop_slider": false,
-          "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
-          "image_ratio": "adapt",
-          "image_shape": "default",
-          "show_secondary_image": false,
-          "show_vendor": false,
-          "show_rating": false,
-          "quick_add": "none",
-          "columns_mobile": "2",
-          "swipe_on_mobile": false,
-          "padding_top": 36,
-          "padding_bottom": 36
-        }
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
-    "order": [
-      "main",
-      "multirow_jjpaFU",
-      "featured_collection_NjLYw7"
-    ]
-  }
-  
+    "multirow_jjpaFU": {
+      "type": "multirow",
+      "blocks": {
+        "row_tYifjm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/fleshlight-case-black-fleshlight-357728.png",
+            "caption": "",
+            "heading": "The Fleshlight Case",
+            "text": "<p>Removable cap conceals fleshy case and keeps it clean for your next use.</p><p>Adjustable end cap controls the amount of suction.</p><p>For even more suction control, check out our<a href=\"/products/fleshlight-boost-case-blue\" title=\"Advanced Suction Control Case\"> Advanced Sunction case</a>!</p>",
+            "button_label": "Shop Cases",
+            "button_link": "shopify://collections/cases"
+          }
+        },
+        "row_689tRV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/original-pink-sleeve-fleshlight-209773.jpg",
+            "caption": "Where the magic happens",
+            "heading": "Removable Inner Sleeve",
+            "text": "<p>Sleeves are all made from Real Feel Superskin™ which feels so much like real skin, it's unreal.</p>",
+            "button_label": "Shop Sleeves",
+            "button_link": "shopify://collections/sleeves"
+          }
+        },
+        "row_8HEPFM": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/sleeve-warmer-fleshlight-795169.jpg",
+            "caption": "Make it even more real",
+            "heading": "Warm to the Touch",
+            "text": "<p>Soak your Fleshlight in warm water, or use our Sleeve Warmer for an even more realistic experience.</p>",
+            "button_label": "Shop Sleeve Warmer",
+            "button_link": "shopify://collections/sleeve-warmers"
+          }
+        },
+        "row_xRXJEY": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/fleshlight-product-care-kit-4oz-fleshlight-194407_1.png",
+            "caption": "Fresh and Clean",
+            "heading": "Easy to Clean",
+            "text": "<p>Just wash your Fleshlight under warm water. For best results, clean periodically with Fleshwash™.</p><p>More detailed instructions can be found here: <a href=\"/blogs/fleshlife/how-to-clean-and-care-for-your-fleshlight-2023-edition\" title=\"How To Clean and Care For Your Fleshlight: 2023 Edition\">Post on how to clean your Fleshlight</a></p>",
+            "button_label": "Shop Cleaning",
+            "button_link": "shopify://collections/product-care"
+          }
+        },
+        "row_DQ3WFQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Fleshlight_Girls_88a17288-06fa-486b-932c-2b59359e7050_1.jpg",
+            "caption": "Get inside your favorite stars",
+            "heading": "Fleshlight Girls",
+            "text": "<p>Live out your fantasies with perfect replicas of all your favorite stars.</p><p>Here's a more <a href=\"/blogs/fleshlife/the-fleshlight-girl-molding-process-step-by-step\" title=\"The Fleshlight Girl Molding Process: Step-By-Step\">detailed look at how the Fleshlight Girls are made</a>.</p>",
+            "button_label": "Shop Fleshlight Girls",
+            "button_link": "shopify://collections/fleshlight-girls"
+          }
+        }
+      },
+      "block_order": [
+        "row_tYifjm",
+        "row_689tRV",
+        "row_8HEPFM",
+        "row_xRXJEY",
+        "row_DQ3WFQ"
+      ],
+      "custom_css": [
+        "h2 {background: linear-gradient(135deg, #7ebc51 0, #f7f7f7 100%); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: rgba(0, 0, 0, 0);}"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "row_color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_NjLYw7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "best-sellers-1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1f753864-be83-4976-99c2-29485ac10f3e",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multirow_jjpaFU",
+    "featured_collection_NjLYw7"
+  ]
+}
